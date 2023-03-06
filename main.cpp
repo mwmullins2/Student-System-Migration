@@ -3,12 +3,7 @@ using std::endl;
 
 int main()
 {
-	cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << std::endl;
-	cout << "C867: Scripting and Programming - Applications" << std::endl;
-	cout << "Programmed with C++" << std::endl;
-	cout << "Student ID: 009750061" << std::endl;
-	cout << "Matthew Mullins" << std::endl;
-	cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n" << std::endl;
+
 
 	const string studentData[] =
 
