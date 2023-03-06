@@ -33,7 +33,7 @@ The program reads a list of five students from the “studentData Table” and c
 ## Output
 The program directs specific data-related output to the console, including a complete list of student data, average days in the course for a given student ID, and a list of students by degree program.
 
-![Output Screenshot](https://github.com/mwmullins2/scripting_and_programming/blob/e05ac5112c3acd2c82bdfe58540fa50145f101b1/C867%20Project/C867%20Project/C867%20Output.JPG)
+![Output Screenshot](https://github.com/mwmullins2/Student-System-Migration/blob/b4969e7dc79e74b79f37d312a65993e2ad8020fb/SSM%20Output.JPG)
 
 ## Instructions
 
